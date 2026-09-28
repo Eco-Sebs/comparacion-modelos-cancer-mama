@@ -2,7 +2,7 @@
 
 Proyecto de aprendizaje sobre el dataset **Breast Cancer Wisconsin (Diagnostic)**. En vez de responder solo "maligno" o "benigno", el modelo entrega un **porcentaje de probabilidad** de que un tumor sea maligno, explica **por qué** da ese porcentaje y compara CatBoost contra otros algoritmos.
 
-> **Aviso:** es un proyecto educativo. No es una herramienta de diagnóstico y no debe usarse para tomar decisiones médicas.
+> **Aviso:** es un proyecto educativo. No es una herramienta de diagnóstico y no debe usarse para tomar decisiones médicas, ADEMAS LOS RESULTADOS SON ASI POR QUE ES UN DATASET FACIL.
 
 ## Idea del proyecto
 
